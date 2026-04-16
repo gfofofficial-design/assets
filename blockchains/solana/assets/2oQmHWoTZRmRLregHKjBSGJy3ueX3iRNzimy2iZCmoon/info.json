@@ -3,10 +3,12 @@
   "symbol": "GFOF",
   "type": "SPL",
   "decimals": 9,
-  "description": "Community-driven DeFi protocol on Solana. Store of value today. Lending tomorrow.",
+  "description": "Community-driven DeFi protocol on Solana. Store of value today. Lending tomorrow. Led by Admiral Zoran Voss.",
   "website": "https://galacticfederation.co",
-  "explorer": "https://solscan.io/token/2oQmHWoTZRmRLregHKjBSGJy3ueX3iRNzimy2iZCmoon",
+  "explorer": "https://solscan.io/token/",
   "status": "active",
+  "id": "2oQmHWoTZRmRLregHKjBSGJy3ueX3iRNzimy2iZCmoon",
+  "tags": ["defi"],
   "links": [
     {"name": "twitter", "url": "https://x.com/GFOF_Offcial"},
     {"name": "telegram", "url": "https://t.me/GFOF_SOL"}

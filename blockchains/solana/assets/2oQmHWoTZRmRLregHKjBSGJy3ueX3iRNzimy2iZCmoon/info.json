@@ -1,1 +1,14 @@
-
+{
+  "name": "Galactic Federation of Finance",
+  "symbol": "GFOF",
+  "type": "SPL",
+  "decimals": 9,
+  "description": "Community-driven DeFi protocol on Solana. Store of value today. Lending tomorrow.",
+  "website": "https://galacticfederation.co",
+  "explorer": "https://solscan.io/token/2oQmHWoTZRmRLregHKjBSGJy3ueX3iRNzimy2iZCmoon",
+  "status": "active",
+  "links": [
+    {"name": "twitter", "url": "https://x.com/GFOF_Offcial"},
+    {"name": "telegram", "url": "https://t.me/GFOF_SOL"}
+  ]
+}
